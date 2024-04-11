@@ -1,0 +1,12 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+colorama==0.4.6
+idna==3.4
+pip==23.3.2
+psutil==5.9.5
+py-cpuinfo==9.0.0
+pypresence==4.2.1
+pystyle==2.9
+PythonTurtle==0.3.2
+requests==2.31.0
+urllib3==2.0.3
